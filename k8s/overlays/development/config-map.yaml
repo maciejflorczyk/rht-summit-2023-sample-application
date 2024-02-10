@@ -2,6 +2,7 @@ apiVersion: v1
 data:
   images.json: |-
     [
+      "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_472,w_614,x_0,y_0/c_limit,w_1080/v1434573169/Screen_Shot_2015-06-17_at_1.32.32_PM_s2zhui.png",
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
       "https://i.imgflip.com/7jmwjs.jpg"
